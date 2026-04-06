@@ -9,4 +9,4 @@ Berikut adalah tampilan aplikasi saat dijalankan:
 
 | Tampilan Form | Tampilan Hasil | Validasi Error |
 | :---: | :---: | :---: |
-| ![Form](./screenshots/form_awal.png) | ![Hasil](./screenshots/form_hasil.png) | ![Error](./screenshots/validasi_error.png) |
+| ![Form](./form_awal.jpeg) | ![Hasil](./form_hasil.jpeg) | ![Error](./validasi_error.jpeg) |
